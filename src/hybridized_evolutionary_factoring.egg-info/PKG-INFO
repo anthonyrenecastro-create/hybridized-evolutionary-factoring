@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: hybridized-evolutionary-factoring
+Version: 0.1.0
+Summary: Experimental hybrid evolutionary factoring engine with benchmark harness
+Requires-Python: >=3.11

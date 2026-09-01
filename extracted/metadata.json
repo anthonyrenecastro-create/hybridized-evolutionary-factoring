@@ -1,0 +1,8 @@
+{
+  "name": "Hybridized Evolutionary Factoring (HEF)",
+  "description": "High-precision full integer prime factorization engine with real-time execution benchmarking and canonical mathematical representations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
